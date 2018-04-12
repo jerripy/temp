@@ -11,6 +11,7 @@ print('')
 
 
 cel = input('introduce el valor de la temperatura en grados celsius')
+
 far = (1.8 * cel) + 32
 
 print('El equivalente en farenheit es: ', far)
